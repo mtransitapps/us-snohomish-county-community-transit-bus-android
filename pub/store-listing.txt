@@ -11,7 +11,7 @@ News from @MyCommTrans.
 Full description:
 This app adds Snohomish County Community Transit buses information to MonTransit.
 
-This app provides the buses schedule as well as the latest news from YouTube and @MyCommTrans on Twitter.
+This app provides the buses schedule as well as the latest news from communitytransit.blogspot.com, YouTube and @MyCommTrans on Twitter.
 
 Community Transit buses serve Snohomish County, Washington, United States.
 
@@ -30,7 +30,7 @@ https://github.com/mtransitapps/us-snohomish-county-community-transit-bus-androi
 This app is not related with the Community Transit and Sound Transit.
 
 Permissions:
-- Other: required to read the news from Twitter & YouTube
+- Other: required to read the news from communitytransit.blogspot.com, Twitter & YouTube
 ----------
 Application type: Applications
 ----------
