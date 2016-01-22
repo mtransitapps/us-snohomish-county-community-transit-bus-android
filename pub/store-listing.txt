@@ -5,7 +5,7 @@ Snohomish County Community Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from December 21, 2015 to February 13, 2016.
+Schedule from January 21, 2016 to February 19, 2016.
 News from @MyCommTrans.
 ----------
 Full description:
