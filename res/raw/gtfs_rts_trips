@@ -7,7 +7,7 @@
 11100,0,'Brier',111
 11101,0,'Mountlake Ter',111
 11201,0,'Ash Way P&R',112
-11200,0,'Mountlake Ter P&R',112
+11200,0,'Mountlake Ter',112
 11300,0,'Lynnwood TC',113
 11301,0,'Mukilteo',113
 11501,0,'Aurora Vlg TC',115
@@ -16,7 +16,7 @@
 11600,0,'Silver Firs',116
 11901,0,'Ash Way P&R',119
 11900,0,'Mountlake Ter P&R',119
-12000,0,'Canyon Pk P&R',120
+12000,0,'Canyon Pk',120
 12001,0,'Edmonds CC',120
 13001,0,'Edmonds',130
 13000,0,'Lynnwood TC',130
@@ -68,7 +68,7 @@
 42201,0,'Stanwood',422
 42400,0,'Downtown Seattle',424
 42401,0,'Snohomish',424
-42500,0,'Downtown Seattle',425
+42500,0,'Downtown Seatte',425
 42501,0,'Lk Stevens',425
 43500,0,'Downtown Seattle',435
 43501,0,'Mill Crk',435
@@ -96,5 +96,5 @@
 86000,0,'U District',860
 87101,0,'Edmonds P&R',871
 87100,0,'U District',871
-88001,0,'35th & 148th / Mukilteo',880
+88001,0,'Mukilteo',880
 88000,0,'U District',880
