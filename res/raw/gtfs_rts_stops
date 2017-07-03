@@ -183,7 +183,7 @@
 384,'','E Burke Ave & Manhattan St',48.200183,-122.1215
 399,'','Caspers St & 7th Ave N',47.817694,-122.371305
 400,'','Caspers St & 8th Ave N',47.817693,-122.369188
-401,'','Chennault Beach Rd & Harbour Blvd',47.897754,-122.303803
+401,'','Chennault Beach Rd & Harbour Pte Blvd',47.897754,-122.303803
 402,'','Chennault Beach Rd & Harbour Reach Dr',47.895117,-122.299896
 406,'','Dayton St & 5th Ave S',47.809626,-122.377314
 408,'','W Dayton St & Edmonds Wy',47.809646,-122.384715
@@ -193,9 +193,9 @@
 423,'','Grv St & 59th Ave NE',48.063655,-122.151553
 430,'','Howell St & 9th Ave',47.614752,-122.333262
 431,'','Howell St & Yale Ave',47.617874,-122.329203
-432,'','Harbour Blvd SW & 52nd Pl W',47.886059,-122.304098
-433,'','Harbour Blvd SW & Blue Heron Blvd',47.886419,-122.298027
-435,'','Harbour Blvd SW & Harbour Reach Dr',47.88706,-122.294184
+432,'','Harbour Pte Blvd SW & 52nd Pl W',47.886059,-122.304098
+433,'','Harbour Pte Blvd SW & Blue Heron Blvd',47.886419,-122.298027
+435,'','Harbour Pte Blvd SW & Harbour Reach Dr',47.88706,-122.294184
 436,'','Larch Wy & Cypress Wy',47.808061,-122.25894
 439,'','Lewis Ave & 3rd St',47.857641,-121.698966
 440,'','Lewis Ave & 7th St',47.855369,-121.694594
@@ -356,7 +356,7 @@
 661,'','44th Ave W & 229th Pl SW',47.790353,-122.292139
 662,'','44th Ave W & 20800 Block',47.810588,-122.292237
 665,'','47th Ave W & Chennault Beach Rd',47.896142,-122.297344
-666,'','47th Pl W & Harbour Blvd',47.904326,-122.296556
+666,'','47th Pl W & Harbour Pte Blvd',47.904326,-122.296556
 667,'','47th Ave W & 109th St SW',47.898787,-122.295735
 675,'','48th Ave W & 233rd St SW',47.787465,-122.297547
 681,'','5th Ave S & Elm Wy',47.800945,-122.377479
@@ -461,11 +461,11 @@
 888,'','Grade Rd & 22nd St NE',48.019027,-122.06286
 889,'','Grade Rd & 28th Pl NE',48.024112,-122.064015
 890,'','Granite Falls P&R',48.080459,-121.969116
-894,'','Harbour Blvd & 47th Pl W',47.904928,-122.296022
-895,'','Harbour Blvd SW & 52nd Pl W',47.88606,-122.304616
-896,'','Harbour Blvd & N Grv Dr',47.893859,-122.311202
-897,'','Harbour Blvd & Double Eagle Dr',47.88791,-122.310449
-898,'','Harbour Blvd & Harbour Hts Pkwy',47.895526,-122.308163
+894,'','Harbour Pte Blvd & 47th Pl W',47.904928,-122.296022
+895,'','Harbour Pte Blvd SW & 52nd Pl W',47.88606,-122.304616
+896,'','Harbour Pte Blvd & N Grv Dr',47.893859,-122.311202
+897,'','Harbour Pte Blvd & Double Eagle Dr',47.88791,-122.310449
+898,'','Harbour Pte Blvd & Harbour Hts Pkwy',47.895526,-122.308163
 899,'','Hubbard Rd & 210th St SW',47.808923,-122.242927
 904,'','I-5 & 116th St NE Flyer Stop',48.100706,-122.183777
 905,'','I-5 & 4th St Flyer Stop',48.052119,-122.183474
@@ -500,12 +500,12 @@
 966,'','Hwy 525 & Beverly Pk Rd',47.883296,-122.280325
 967,'','Hwy 525 & Clover Ln',47.933529,-122.306277
 968,'','Hwy 525 & Goat Trl Rd',47.939846,-122.305698
-969,'','Hwy 525 & Harbour Blvd SW',47.890359,-122.28517
+969,'','Hwy 525 & Harbour Pte Blvd SW',47.890359,-122.28517
 970,'','Hwy 525 & Lincoln Wy',47.87397,-122.276299
 972,'','Hwy 525 & 15th Pl',47.93662,-122.30603
 973,'','Hwy 525 & 76th St SW',47.928926,-122.301111
 974,'','Hwy 525 & Chennault Beach Rd',47.89945,-122.29146
-975,'','Hwy 525 & Harbour Blvd',47.905493,-122.293025
+975,'','Hwy 525 & Harbour Pte Blvd',47.905493,-122.293025
 977,'','Hwy 527 & 180th St SE',47.835008,-122.2109
 979,'','Hwy 527 & 186th Pl SE',47.828582,-122.208982
 980,'','Hwy 527 & Reder Wy',47.763022,-122.207475
@@ -617,7 +617,7 @@
 1146,'','44th Ave W & 186th St SW',47.830463,-122.292568
 1148,'','47th Ave W & 107th St SW',47.900891,-122.294587
 1149,'','47th Ave W & 109th St SW',47.898884,-122.295847
-1150,'','47th Pl W & Harbour Blvd',47.904447,-122.296792
+1150,'','47th Pl W & Harbour Pte Blvd',47.904447,-122.296792
 1155,'','48th Ave W & 194th St SW',47.822571,-122.297952
 1156,'','48th Ave W & 196th St SW',47.820279,-122.297928
 1160,'','48th Ave W & 228th St SW',47.791691,-122.297768
@@ -724,11 +724,11 @@
 1385,'','Grade Rd & 22nd St NE',48.018907,-122.063094
 1386,'','Grade Rd & 29th Pl NE',48.02436,-122.064417
 1387,'','Grade Rd & Hwy 92',48.030077,-122.0723
-1389,'','Harbour Blvd & Chennault Beach Rd',47.897624,-122.304794
-1390,'','Harbour Blvd & Double Eagle Dr',47.887499,-122.310242
-1391,'','Harbour Blvd & Harbour Hts Pkwy',47.895403,-122.308616
-1392,'','Harbour Blvd & St Andrews Dr',47.893509,-122.311759
-1393,'','Harbour Blvd & 47th Pl W',47.904983,-122.295775
+1389,'','Harbour Pte Blvd & Chennault Beach Rd',47.897624,-122.304794
+1390,'','Harbour Pte Blvd & Double Eagle Dr',47.887499,-122.310242
+1391,'','Harbour Pte Blvd & Harbour Hts Pkwy',47.895403,-122.308616
+1392,'','Harbour Pte Blvd & St Andrews Dr',47.893509,-122.311759
+1393,'','Harbour Pte Blvd & 47th Pl W',47.904983,-122.295775
 1394,'','Hubbard Rd & 210th St SW',47.809107,-122.243315
 1397,'','I-5 & Marine Dr NE Flyer Stop',48.051611,-122.185628
 1398,'','I-5 & 116th St NE Flyer Stop',48.100599,-122.186308
@@ -763,10 +763,10 @@
 1459,'','Hwy 525 & 92nd St SW',47.914759,-122.297026
 1460,'','Hwy 525 & Beverly Pk Rd',47.882033,-122.279658
 1461,'','Hwy 525 & Chennault Beach Rd',47.898923,-122.291298
-1462,'','Hwy 525 & Harbour Blvd SW',47.889486,-122.284779
+1462,'','Hwy 525 & Harbour Pte Blvd SW',47.889486,-122.284779
 1464,'','Hwy 525 & Russell Rd',47.89598,-122.289238
 1465,'','Hwy 525 & Front St',47.948454,-122.304319
-1466,'','Hwy 525 & Harbour Blvd',47.904728,-122.293207
+1466,'','Hwy 525 & Harbour Pte Blvd',47.904728,-122.293207
 1467,'','Hwy 525 & Lincoln Wy',47.873645,-122.276595
 1468,'','Hwy 525 & 76th St SW',47.929206,-122.301776
 1469,'','Hwy 525 & 80th St SW',47.925618,-122.300389
@@ -969,9 +969,9 @@
 1790,'','Grv St & 59th Ave NE',48.063697,-122.151685
 1791,'','Grv St & 67th Ave NE',48.064516,-122.141431
 1794,'','Grv St & 60th Dr NE',48.064573,-122.148983
-1801,'','Harbour Blvd SW & Harbour Reach Dr',47.88714,-122.294419
-1802,'','Harbour Blvd SW & Hwy 525',47.889386,-122.28703
-1803,'','Harbour Blvd SW & Blue Heron Blvd',47.886515,-122.298478
+1801,'','Harbour Pte Blvd SW & Harbour Reach Dr',47.88714,-122.294419
+1802,'','Harbour Pte Blvd SW & Hwy 525',47.889386,-122.28703
+1803,'','Harbour Pte Blvd SW & Blue Heron Blvd',47.886515,-122.298478
 1805,'','Lk Vw Dr & Cedar Rd',48.015433,-122.084162
 1806,'','Lakewood Rd & Lk Ki',48.156717,-122.261673
 1807,'','Lakewood Rd & 184th St NW',48.163703,-122.336519
@@ -993,7 +993,7 @@
 1827,'','Main St & Maplewood Dr',47.810578,-122.354962
 1828,'','Main St & Olympic Ave',47.810576,-122.362094
 1830,'','Main St & Hwy 2',47.862597,-121.80751
-1832,'','Mill Crk Rd & Mill Dr SE',47.851363,-122.20588
+1832,'','Mill Crk Rd & Mill Pte Dr SE',47.851363,-122.20588
 1833,'','Mkt Pl & 91st Ave NE',47.997952,-122.107784
 1834,'','Monte Villa Pkwy & 39th Ave SE',47.778231,-122.182215
 1836,'','Monte Villa Pkwy & 35th Ave SE',47.778816,-122.185163
