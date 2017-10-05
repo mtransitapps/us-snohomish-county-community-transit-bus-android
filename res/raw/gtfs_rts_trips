@@ -1,7 +1,7 @@
 10100,0,'Aurora Vlg TC',101
 10101,0,'Mariner P&R',101
 10500,0,'Bothell',105
-10501,0,'Mariner P&R',105
+10501,0,'Hardeson Rd',105
 10600,0,'Bothell',106
 10601,0,'Mariner P&R',106
 10900,0,'Ash Way P&R',109
@@ -13,7 +13,7 @@
 11300,0,'Lynnwood TC',113
 11301,0,'Mukilteo',113
 11501,0,'Aurora Vlg TC',115
-11500,0,'Mariner P&R',115
+11500,0,'McCollum Pk P&R',115
 11601,0,'Edmonds',116
 11600,0,'Silver Firs',116
 11901,0,'Ash Way P&R',119
@@ -21,34 +21,32 @@
 12000,0,'Canyon Pk',120
 12001,0,'Edmonds CC',120
 13001,0,'Edmonds',130
-13000,0,'Lynnwood TC',130
-19600,0,'Alderwood Mall',196
+13000,0,'Lynnwood',130
+19600,0,'Ash Way P&R',196
 19601,0,'Edmonds',196
 20100,0,'Lynnwood TC',201
 20101,0,'Smokey Pt',201
 20200,0,'Lynnwood TC',202
 20201,0,'Smokey Pt',202
 20900,0,'Lk Stevens',209
-20901,0,'Quil Ceda Vlg',209
+20901,0,'Smokey Pt',209
 22000,0,'Arlington',220
 22001,0,'Smokey Pt',220
 22200,0,'Marysville',222
 22201,0,'Tulalip',222
 22701,0,'Arlington',227
-22700,0,'Everett Boeing',227
+22700,0,'Boeing',227
 23000,0,'Darrington',230
 23001,0,'Smokey Pt',230
 24000,0,'Smokey Pt',240
 24001,0,'Stanwood',240
-24701,0,'Arlington',247
-24700,0,'Everett Boeing',247
-27001,0,'Everett',270
+24700,0,'Boeing',247
+24701,0,'Stanwood',247
+27001,0,'Everett / Boeing',270
 27000,0,'Monroe / Gold Bar',270
 27101,0,'Everett',271
-27100,0,'Monroe / Gold Bar',271
-27701,0,'Everett Boeing',277
-27700,0,'Gold Bar',277
-28001,0,'Everett Boeing',280
+27100,0,'Gold Bar',271
+28001,0,'Everett',280
 28000,0,'Lk Stevens / Granite Falls',280
 40200,0,'Downtown Seattle',402
 40201,0,'Lynnwood',402
@@ -87,8 +85,8 @@
 53200,0,'Bellevue TC',532
 53201,0,'Lynnwood & Everett',532
 53500,0,'Bellevue TC',535
-53501,0,'Lynnwood & Everett',535
-70100,0,'Aurora Vlg TC',701
+53501,0,'Lynnwood',535
+70100,0,'Aurora Vlg Sta',701
 70101,0,'Everett Sta',701
 81001,0,'McCollum Pk P&R',810
 81000,0,'U District',810
