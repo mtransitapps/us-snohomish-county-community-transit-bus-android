@@ -78,6 +78,7 @@ android {
 
     //noinspection GroovyMissingReturnStatement
     lintOptions {
+        abortOnError false
         checkDependencies true // also check leaf modules
         ignoreTestSources true
     }
