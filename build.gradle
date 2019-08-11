@@ -70,7 +70,7 @@ android {
                 signingConfig signingConfigs.release
             }
 
-            shrinkResources true
+            shrinkResources false
             minifyEnabled false
             useProguard false
         }
