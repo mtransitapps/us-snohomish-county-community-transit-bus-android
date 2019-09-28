@@ -10,14 +10,14 @@
 10901,0,'Lk Stevens',109
 11100,0,'Brier',111
 11101,0,'Mountlake Ter',111
-11201,0,'Ash Way P&R',112
-11200,0,'Mountlake Ter',112
+11200,0,'Ash Way P&R',112
+11201,0,'Mountlake Ter',112
 11300,0,'Lynnwood',113
 11301,0,'Mukilteo',113
 11500,0,'Aurora Vlg',115
 11501,0,'McCollum Pk',115
-11601,0,'Edmonds',116
-11600,0,'Silver Firs',116
+11600,0,'Edmonds',116
+11601,0,'Silver Firs',116
 11900,0,'Ash Way P&R',119
 11901,0,'Mountlake Ter',119
 12000,0,'Canyon Pk',120
@@ -26,8 +26,8 @@
 13000,0,'Lynnwood',130
 19601,0,'Ash Way P&R',196
 19600,0,'Edmonds',196
-20101,0,'Lynnwood',201
-20100,0,'Smokey Pt',201
+20100,0,'Lynnwood',201
+20101,0,'Smokey Pt',201
 20201,0,'Lynnwood',202
 20200,0,'Smokey Pt',202
 20900,0,'Lk Stevens',209
@@ -88,8 +88,6 @@
 53200,0,'Everett Sta',532
 53501,0,'Bellevue',535
 53500,0,'Lynnwood',535
-54000,0,'Kirkland',540
-54001,0,'U. District',540
 70100,0,'Aurora Vlg',701
 70101,0,'Everett Sta',701
 70200,0,'Canyon Pk',702
