@@ -179,7 +179,7 @@
 374,'374','Beardslee Blvd & Sunrise Dr',47.760613,-122.20018
 375,'375','Beardslee Blvd & 110th Ave NE',47.763798,-122.193581
 384,'384','E Burke Ave & Manhattan St',48.200185,-122.12156
-394,'394','W Casino RD & Evergreen WAY',47.921848,-122.230515
+394,'394','W Casino RD & Evergreen WAY',47.921848,-122.230514
 399,'399','Caspers St & 7th Ave N',47.817697,-122.371371
 400,'400','Caspers St & 8th Ave N',47.817697,-122.369271
 401,'401','Chennault Beach Rd & Harbour Pte Blvd',47.89764,-122.303239
@@ -281,7 +281,7 @@
 541,'541','Hwy 92 & 84th St NE',48.071286,-122.010094
 543,'543','W Stanley St & Portage Ave',48.083229,-121.974339
 544,'544','W Stanley St & Cascade Ave',48.083262,-121.970844
-545,'545','E Stevens Wy NE & Memorial Wy NE',47.659691,-122.308823
+545,'545','E Stevens Wy NE & Memorial Wy NE',47.659677,-122.308724
 546,'546','Ter St & 5th Ave',47.602119,-122.328079
 548,'548','Sultan Pk & Ride Bay 2',47.862968,-121.803907
 549,'549','Hwy 2 & 179th Ave SE',47.86527,-121.990062
@@ -425,7 +425,7 @@
 807,'807','Airport Rd & Admiralty Wy',47.884833,-122.254348
 808,'808','Airport Rd & E Gibson Rd',47.8822,-122.250961
 809,'809','Airport Rd & Holly Dr',47.899137,-122.265244
-810,'810','Airport Rd & Hwy 99',47.890163,-122.258759
+810,'810','Airport Rd & Hwy 99',47.890163,-122.258758
 811,'811','Airport Rd & 100th St SW',47.907113,-122.270754
 814,'814','Alderwood Mall Pkwy & Beech Rd',47.829303,-122.268359
 815,'815','Beardslee Blvd & Ross Rd',47.767918,-122.19101
@@ -498,7 +498,7 @@
 965,'965','Hwy 525 & 92nd St SW',47.915553,-122.297708
 966,'966','Hwy 525 & Beverly Pk Rd',47.883781,-122.280517
 967,'967','Hwy 525 & Clover Ln',47.933525,-122.30629
-968,'968','Hwy 525 & Goat Trl Rd',47.940029,-122.305717
+968,'968','Hwy 525 & Goat Trl Rd',47.940029,-122.305718
 969,'969','Hwy 525 & Harbour Pte Blvd SW',47.890339,-122.285038
 970,'970','Hwy 525 & Lincoln Wy',47.873959,-122.276138
 972,'972','Hwy 525 & 15th Pl',47.937569,-122.305992
@@ -705,7 +705,7 @@
 1313,'1313','Beverly Pk Rd & 132nd St SW',47.88002,-122.285078
 1314,'1314','Bickford Ave & 34th St',47.948346,-122.1137
 1316,'1316','Brier Rd & 232nd St SW',47.78955,-122.274373
-1318,'1318','Broadway & 14th St',47.998665,-122.201241
+1318,'1318','Broadway & 14th St',47.998665,-122.20124
 1328,'1328','Broadway & Tower St',48.006229,-122.19706
 1329,'1329','Brk Blvd & Palomino Dr',47.837012,-122.204569
 1330,'1330','Brk Blvd & 175th St SE',47.839202,-122.202352
@@ -1093,7 +1093,7 @@
 2126,'2126','Edmonds Community College Transit Ctr Bay 4',47.81573,-122.325621
 2127,'2127','Edmonds Community College Transit Ctr Bay 5',47.815772,-122.325387
 2131,'2131','Ash Way Pk & Ride Bay 2',47.852883,-122.258253
-2132,'2132','Canyon Pk Park & Ride Bay 3',47.793922,-122.211586
+2132,'2132','Canyon Pk Park & Ride Bay 3',47.793984,-122.211502
 2134,'2134','Canyon Pk Park & Ride Bay 2',47.794005,-122.211594
 2135,'2135','Canyon Pk Park & Ride Bay 1',47.794094,-122.21174
 2137,'2137','132nd St SE & 16th Ave SE',47.878268,-122.212665
