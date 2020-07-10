@@ -21,7 +21,7 @@
 11900,0,'Ash Way P&R',119
 11901,0,'Mountlake Ter',119
 12001,0,'Canyon Pk',120
-12000,0,'Edmonds CC',120
+12000,0,'Edmonds College',120
 13000,0,'Edmonds',130
 13001,0,'Lynnwood',130
 19600,0,'Ash Way P&R',196
@@ -76,6 +76,8 @@
 42500,0,'Seattle 4th Ave',425
 43500,0,'Mill Crk',435
 43501,0,'Seattle 4th Ave',435
+50801,0,'Mountlake Ter',508
+50800,0,'Seattle',508
 51000,0,'Everett',510
 51001,0,'Seattle 5th Ave',510
 51100,0,'Ash Way P&R Lynnwood TC',511
