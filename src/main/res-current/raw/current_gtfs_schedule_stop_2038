@@ -5,4 +5,4 @@
 'MCOB-DO:121:0:Weekday:14:20SEP:12345',10501,95800,0,'Mariner P&R',9800,0,'Mariner P&R',10100,0,'Mariner P&R',10000,0,'Mariner P&R',56300,0,'Mariner P&R',10200,0,'Mariner P&R',10400,0,'Mariner P&R',9600,0,'Mariner P&R',12100,0,'Mariner P&R'
 'MCOB-DO:171:5:Saturday:11:20SEP:6',10501,63000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R',10000,0,'Mariner P&R'
 'MCOB-DO:121:0:Weekday:14:20SEP:12345',10601,70000,,'',10400,,'',92400,,'',9800,,'',9700,,''
-'KPOB-CS:221:0:Weekday:11:20SEP:12345',41001,155300,,'',8200,,'',6600,,'',2700,,'',2100,,'',5900,,'',2500,,''
+'KPOB-CS:221:0:Weekday:12:20SEP:12345',41001,155300,,'',8200,,'',6600,,'',2700,,'',2100,,'',5900,,'',2500,,''
