@@ -79,10 +79,10 @@
 51001,0,'Everett',510
 51000,0,'Seattle 5th Ave',510
 51101,0,'Ash Way P&R Lynnwood',511
-51100,0,'Seattle 5th Ave',511
+51100,0,'Northgate Sta',511
 51201,0,'Everett',512
-51200,0,'Seattle 5th Ave',512
-51300,0,'Seattle 5th Ave',513
+51200,0,'Northgate Sta',512
+51300,0,'Northgate Sta',513
 51301,0,'Seaway TC',513
 53200,0,'Bellevue',532
 53201,0,'Everett',532
@@ -93,14 +93,12 @@
 70200,0,'Canyon Pk',702
 70201,0,'Seaway TC',702
 81001,0,'McCollum Pk',810
-81000,0,'University',810
+81000,0,'Northgate Sta',810
 82101,0,'Marysville',821
-82100,0,'University',821
-85501,0,'Lynnwood TC',855
-85500,0,'University',855
+82100,0,'Northgate Sta',821
 86001,0,'McCollum Pk',860
-86000,0,'University',860
+86000,0,'Northgate Sta',860
 87101,0,'Edmonds P&R',871
-87100,0,'University',871
+87100,0,'Northgate Sta',871
 88001,0,'Mukilteo',880
-88000,0,'University',880
+88000,0,'Northgate Sta',880
