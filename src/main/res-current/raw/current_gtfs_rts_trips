@@ -1,5 +1,7 @@
 10100,0,'Aurora Vlg',101
 10101,0,'Mariner P&R',101
+10200,0,'Edmonds Sta',102
+10201,0,'Lynnwood',102
 10500,0,'Bothell',105
 10501,0,'Hardeson',105
 10600,0,'Bothell',106
@@ -14,18 +16,16 @@
 11200,0,'Mountlake Ter',112
 11300,0,'Lynnwood',113
 11301,0,'Mukilteo',113
-11500,0,'Aurora Vlg',115
-11501,0,'McCollum Pk',115
-11600,0,'Edmonds',116
-11601,0,'Silver Firs',116
+11400,0,'Aurora Vlg',114
+11401,0,'Lynnwood',114
 11901,0,'Ash Way P&R',119
 11900,0,'Mountlake Ter',119
 12001,0,'Canyon Pk',120
-12000,0,'Edmonds College',120
+12000,0,'Lynnwood',120
 13000,0,'Edmonds',130
 13001,0,'Lynnwood',130
-19601,0,'Ash Way P&R',196
-19600,0,'Edmonds',196
+16600,0,'Edmonds Sta',166
+16601,0,'Silver Firs',166
 20100,0,'Lynnwood',201
 20101,0,'Smokey Pt',201
 20200,0,'Lynnwood',202
@@ -90,6 +90,8 @@
 70101,0,'Everett Sta',701
 70200,0,'Canyon Pk',702
 70201,0,'Seaway TC',702
+70300,0,'Edmonds College',703
+70301,0,'McCollum Pk',703
 81001,0,'McCollum Pk',810
 81000,0,'Northgate Sta',810
 82101,0,'Marysville',821
