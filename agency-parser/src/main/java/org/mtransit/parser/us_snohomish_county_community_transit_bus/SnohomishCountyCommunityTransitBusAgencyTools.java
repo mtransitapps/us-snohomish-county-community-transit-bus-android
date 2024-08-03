@@ -100,6 +100,7 @@ public class SnohomishCountyCommunityTransitBusAgencyTools extends DefaultAgency
 		return super.fixColor(color);
 	}
 
+	// https://www.communitytransit.org/docs/default-source/mappdfs/systemmappdfs/mapsystem.pdf
 	@SuppressWarnings("DuplicateBranchesInSwitch")
 	@Nullable
 	@Override
@@ -108,6 +109,7 @@ public class SnohomishCountyCommunityTransitBusAgencyTools extends DefaultAgency
 		switch (gRoute.getRouteShortName()) {
 		case "101":
 		case "102":
+		case "103":
 		case "105":
 		case "106":
 		case "107":
@@ -118,8 +120,10 @@ public class SnohomishCountyCommunityTransitBusAgencyTools extends DefaultAgency
 		case "114":
 		case "115":
 		case "116":
+		case "117":
 		case "119":
 		case "120":
+		case "121":
 		case "130":
 		case "166":
 		case "196":
@@ -155,6 +159,7 @@ public class SnohomishCountyCommunityTransitBusAgencyTools extends DefaultAgency
 		case "511":
 		case "512":
 		case "513":
+		case "515":
 		case "532":
 		case "535":
 			return ST_EXPRESS_ROUTES_COLOR;
@@ -171,6 +176,13 @@ public class SnohomishCountyCommunityTransitBusAgencyTools extends DefaultAgency
 		case "871":
 		case "880":
 			return COMMUTER_ROUTES_COLOR;
+		case "901":
+		case "903":
+		case "904":
+		case "905":
+		case "907":
+		case "909":
+			return null; // TODO? express route
 		}
 		throw new MTLog.Fatal("Unexpected route color %s!", gRoute.toStringPlus());
 	}
