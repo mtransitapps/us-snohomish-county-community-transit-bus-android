@@ -1,40 +1,40 @@
-101,'101','Mariner P&R - Aurora Village TC','42B3B7',48626,3
-102,'102','Edmonds Station - Lynnwood City Center Station','42B3B7',48627,3
-103,'103','Hardeson Road - Lynnwood City Center Station','42B3B7',48628,3
-106,'106','Mariner P&R - UW Bothell/Cascadia College','42B3B7',48631,3
-109,'109','Ash Way P&R - Lake Stevens TC','42B3B7',48634,3
-111,'111','Brier - Mountlake Terrace Station','42B3B7',48657,3
-112,'112','Mountlake Terrace Station - Ash Way P&R','42B3B7',48658,3
-114,'114','Aurora Village TC - Lynnwood City Center Station','42B3B7',48660,3
-117,'117','Mukilteo Ferry - Lynnwood City Center Station','42B3B7',48663,3
-119,'119','Ash Way P&R - Mountlake Terrace Station','42B3B7',48665,3
-120,'120','UW Bothell/Cascadia - Lynnwood City Center Station','42B3B7',48687,3
-121,'121','Ash Way P&R - UW Bothell/Cascadia College','42B3B7',48688,3
-130,'130','Edmonds Station - Lynnwood City Center Station','42B3B7',48718,3
-166,'166','Edmonds Station - Silver Firs','42B3B7',48817,3
-201,'201','Smokey Point TC - Lynnwood City Center Station','42B3B7',49587,3
-202,'202','Smokey Point TC - Lynnwood City Center Station','42B3B7',49588,3
-209,'209','Smokey Point TC - Lake Stevens TC','42B3B7',49595,3
-220,'220','Arlington - Smokey Point TC','42B3B7',49648,3
-222,'222','Marysville - Tulalip','42B3B7',49650,3
-230,'230','Darrington - Smokey Point TC','42B3B7',49679,3
-240,'240','Stanwood Downtown - Smokey Point TC','42B3B7',49710,3
-270,'270','Gold Bar - Everett Station','42B3B7',49803,3
-271,'271','Gold Bar - Everett Station','42B3B7',49804,3
-280,'280','Granite Falls P&R - Everett Station','42B3B7',49834,3
-424,'424','Snohomish P&R - Seattle','F3AA4F',51574,3
-510,'510','Everett Station - Seattle','B2B1B1',52500,3
-512,'512','Everett Station - Lynnwood City Center Station','B2B1B1',52502,3
-513,'513','Lynnwood City Center Station - Seaway TC','B2B1B1',52503,3
-515,'515','Lynnwood City Center Station - Seattle','B2B1B1',52505,3
-532,'532','Everett Station - Bellevue','B2B1B1',52564,3
-535,'535','Lynnwood City Center Station - Bellevue','B2B1B1',52567,3
-701,'Swift Blue','Everett Station - Shoreline North/185th Station','006CFF',54392,3
+101,'101','Mariner P&R - Aurora Village TC','0070C0',48626,3
+102,'102','Edmonds Station - Lynnwood City Center Station','0070C0',48627,3
+103,'103','Hardeson Road - Lynnwood City Center Station','0070C0',48628,3
+106,'106','Mariner P&R - UW Bothell / Cascadia College','0070C0',48631,3
+109,'109','Ash Way P&R - Lake Stevens TC','0070C0',48634,3
+111,'111','Brier - Mountlake Terrace Station','0070C0',48657,3
+112,'112','Mountlake Terrace Station - Ash Way P&R','0070C0',48658,3
+114,'114','Aurora Village TC - Lynnwood City Center Station','0070C0',48660,3
+117,'117','Mukilteo Ferry - Lynnwood City Center Station','0070C0',48663,3
+119,'119','Ash Way P&R - Mountlake Terrace Station','0070C0',48665,3
+120,'120','UW Bothell / Cascadia - Lynnwood City Center Station','0070C0',48687,3
+121,'121','Ash Way P&R - UW Bothell / Cascadia College','0070C0',48688,3
+130,'130','Edmonds Station - Lynnwood City Center Station','0070C0',48718,3
+166,'166','Edmonds Station - Silver Firs','0070C0',48817,3
+201,'201','Smokey Point TC - Lynnwood City Center Station','0070C0',49587,3
+202,'202','Smokey Point TC - Lynnwood City Center Station','0070C0',49588,3
+209,'209','Smokey Point TC - Lake Stevens TC','0070C0',49595,3
+220,'220','Arlington - Smokey Point TC','0070C0',49648,3
+222,'222','Marysville - Tulalip','0070C0',49650,3
+230,'230','Darrington - Smokey Point TC','0070C0',49679,3
+240,'240','Stanwood Downtown - Smokey Point TC','0070C0',49710,3
+270,'270','Gold Bar - Everett Station','0070C0',49803,3
+271,'271','Gold Bar - Everett Station','0070C0',49804,3
+280,'280','Granite Falls P&R - Everett Station','0070C0',49834,3
+424,'424','Snohomish P&R - Seattle','0070C0',51574,3
+510,'510','Everett Station - Seattle','2B376E',52500,3
+512,'512','Everett Station - Lynnwood City Center Station','2B376E',52502,3
+513,'513','Lynnwood City Center Station - Seaway TC','2B376E',52503,3
+515,'515','Lynnwood City Center Station - Seattle','2B376E',52505,3
+532,'532','Everett Station - Bellevue','2B376E',52564,3
+535,'535','Lynnwood City Center Station - Bellevue','2B376E',52567,3
+701,'Swift Blue','Everett Station - Shoreline North / 185th Station','006CFF',54392,3
 702,'Swift Green','Seaway TC - Canyon Park P&R','00AA00',54393,3
 703,'Swift Orange','Edmonds College - McCollum Park P&R','F24C21',54394,3
-901,'901','Silver Firs - Lynnwood City Center Station','',56314,3
-903,'903','Lake Stevens TC - Lynnwood City Center Station','',56316,3
-904,'904','Marysville - Lynnwood City Center Station','',56317,3
-905,'905','Stanwood Downtown - Lynnwood City Center Station','',56318,3
-907,'907','Stanwood I-5 P&R - Seaway TC','',56320,3
-909,'909','Edmonds Station - Mountlake Terrace Station','',56322,3
+901,'901','Silver Firs - Lynnwood City Center Station','0070C0',56314,3
+903,'903','Lake Stevens TC - Lynnwood City Center Station','0070C0',56316,3
+904,'904','Marysville - Lynnwood City Center Station','0070C0',56317,3
+905,'905','Stanwood Downtown - Lynnwood City Center Station','0070C0',56318,3
+907,'907','Stanwood I-5 P&R - Seaway TC','0070C0',56320,3
+909,'909','Edmonds Station - Mountlake Terrace Station','0070C0',56322,3

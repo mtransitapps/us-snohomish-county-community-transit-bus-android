@@ -5,7 +5,7 @@
 10301,0,'Hardeson Rd',103
 10300,0,'Lynnwood City Ctr Sta',103
 10601,0,'Mariner P&R',106
-10600,0,'UW Bothell / Cascadia College',106
+10600,0,'UW Bothell/Cascadia College',106
 10900,0,'Ash Way P&R',109
 10901,0,'Lk Stevens',109
 11101,0,'Brier',111
@@ -19,9 +19,9 @@
 11901,0,'Ash Way P&R',119
 11900,0,'Mountlake Ter Sta',119
 12000,0,'Lynnwood City Ctr Sta',120
-12001,0,'UW Bothell / Cascadia College',120
+12001,0,'UW Bothell/Cascadia College',120
 12101,0,'Ash Way P&R',121
-12100,0,'UW Bothell / Cascadia College',121
+12100,0,'UW Bothell/Cascadia College',121
 13000,0,'Edmonds',130
 13001,0,'Lynnwood City Ctr Sta',130
 16600,0,'Edmonds Sta',166
@@ -61,7 +61,7 @@
 53500,0,'Bellevue',535
 53501,0,'Lynnwood City Ctr Sta',535
 70101,0,'Everett Sta',701
-70100,0,'Shoreline North / 185th Sta',701
+70100,0,'Shoreline N/185th Sta',701
 70200,0,'Canyon Pk',702
 70201,0,'Seaway TC',702
 70300,0,'Edmonds College',703
