@@ -6,4 +6,5 @@
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Los_Angeles</string>
     <string name="gtfs_rts_color">0070C0</string>
+    <string name="gtfs_rts_service_id_cleanup_regex">^[A-Z]{4}-[A-Z]{2}\\:\\d{3}\\:\\d\\:|\\:\\d\\:\\d{2}[A-Z]{3}\\:\\d{1,7}$</string>
 </resources>

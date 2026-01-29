@@ -4,5 +4,6 @@
   "default_strings_cleaner_enabled": "true",
   "default_color_enabled": "true",
   "default_color": "0070C0",
-  "default_color_comment": "BLUE"
+  "default_color_comment": "BLUE",
+  "service_id_cleanup_regex": "^[A-Z]{4}-[A-Z]{2}\\:\\d{3}\\:\\d\\:|\\:\\d\\:\\d{2}[A-Z]{3}\\:\\d{1,7}$"
 }
