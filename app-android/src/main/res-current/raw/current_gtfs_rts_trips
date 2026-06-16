@@ -46,8 +46,6 @@
 27101,0,'Gold Bar',271
 28000,0,'Everett',280
 28001,0,'Granite Falls',280
-42400,0,'Seattle 2nd Ave',424
-42401,0,'Snohomish',424
 70101,0,'Everett Sta',701
 70100,0,'Shoreline N/185th Sta',701
 70200,0,'Canyon Park',702
@@ -64,5 +62,7 @@
 90501,0,'Stanwood Downtown P&R',905
 90700,0,'Paine Field Airport',907
 90701,0,'Stanwood I-5 P&R',907
+90800,0,'Bellevue',908
+90801,0,'Snohomish P&R',908
 90900,0,'Edmonds Sta',909
 90901,0,'Mountlake Ter Sta',909
