@@ -24,8 +24,8 @@
 12100,0,'UW Bothell/Cascadia College',121
 13000,0,'Edmonds',130
 13001,0,'Lynnwood City Ctr Sta',130
+16601,0,'Cathcart P&R',166
 16600,0,'Edmonds Sta',166
-16601,0,'Silver Firs',166
 20100,0,'Lynnwood City Ctr Sta',201
 20101,0,'Smokey Point',201
 20200,0,'Lynnwood City Ctr Sta',202
@@ -52,8 +52,8 @@
 70201,0,'Seaway TC',702
 70300,0,'Edmonds College',703
 70301,0,'McCollum Park',703
+90101,0,'Cathcart P&R',901
 90100,0,'Lynnwood City Ctr Sta',901
-90101,0,'Silver Firs',901
 90301,0,'Lk Stevens TC',903
 90300,0,'Lynnwood City Ctr Sta',903
 90400,0,'Lynnwood City Ctr Sta',904
